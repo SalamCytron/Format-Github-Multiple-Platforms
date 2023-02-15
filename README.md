@@ -1,6 +1,7 @@
 # Format-Github
 
-For Github README.md description must several heading as below.
+For Github README.md description.
+Might help you to organize the README.md more effectively.
 
 # Name
 Description of the product
