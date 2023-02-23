@@ -1,5 +1,6 @@
 # Arduino-StepperMotor-with-Shield2A
-This is sample code of Arduino-StepperMotor with Shield2A
+This is sample code of Arduino-StepperMotor with Shield2A  
+<img src="https://github.com/SalamCytron/Format-Github/blob/main/2amp-motor-driver-shield.png" width="350">  
 
 ## Requirements
 **Hardware:**  
