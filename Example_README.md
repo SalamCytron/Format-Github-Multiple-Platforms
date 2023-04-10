@@ -23,6 +23,10 @@ Datasheet for this product can be found here:
 * [35BY48L](https://drive.google.com/file/d/0BzFWfMiqqjyqYVRXQkdSVUI2djQ/view?resourcekey=0-9qFf8ZMvqLGe54DNEc1zug)
 
 ## Support  
-Welcome to our [technical forum](http://forum.cytron.io) if you have further inquiry.  
+You can visit [Log Thermocouple Sensor Data to Google Sheets using CM4 Maker Board](https://cytron.io/tutorial/log-thermocouple-sensor-data-to-google-sheets-using-cm4-maker-board) to learn more about it. 
+
+If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) or you can contact us through email support@cytron.io where our team will be happy to assist you. 
+
+Let's start building with CM4 Maker Board!
 
 
