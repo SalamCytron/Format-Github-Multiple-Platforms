@@ -15,9 +15,7 @@ To get started, you will need the following hardware and software:
 * [Raspberry Pi Pico](https://www.raspberrypi.org/documentation/pico/getting-started/)  
 * [OLED Display SSD1306](https://my.cytron.io/p-oled-i2c-0.96inch-128x64-blue-display)  
 * [3V3 I2C and SPI 1602 Serial Character LCD](https://my.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd)  
-* [Maker Line](www.cytron.io/p-maker-line-simplifying-line-sensor-for-beginner)  
-* [Maker Drive](https://cytron.io/p-maker-drive-simplifying-h-bridge-motor-driver-for-beginner?r=1)  
-* [Ultrasonic Ranging Module](https://cytron.io/p-3v-5.5v-ultrasonic-ranging-module)  
+
 
 **Software:**  
 To upload the code to the Raspberry Pi Pico you need an IDE such as [Micropython](https://micropython.org/download/).
@@ -29,9 +27,7 @@ If you want a guidance on how to use the code for [Cytron Product Name], here so
 * [Building Line Following Robot Using Maker Pi Pico, Maker Drive and Maker Line](https://cytron.io/tutorial/building-line-following-robot-using-maker-pi-pico-maker-drive-and-maker-line)  
 * [Play MP3 File on Maker Pi Pico Using Circuitpython](https://cytron.io/tutorial/play-mp3-file-on-maker-pi-pico-using-circuitpython)  
 * [Read and Display Environment Sensor Data Using Raspberry Pi Pico and Circuitpython](https://cytron.io/tutorial/read-and-display-environment-sensor-data-using-raspberry-pi-pico-and-circuitpython)  
-* [Metronome Maker Pi Pico, Programmed With Circuitpython](https://cytron.io/tutorial/metronome-maker-pi-pico-programmed-with-circuitpython)  
-* [Display COVID-19 Data Using Maker Pi Pico and Circuitpython](https://cytron.io/tutorial/display-covid-19-data-using-maker-pi-pico-and-circuitpython)  
-* [Ultrasonic HC-SR04P Using Raspberry Pi Pico](https://cytron.io/tutorial/ultrasonic-hc-sr04p-using-raspberry-pi-pico)  
+
 
 ## Documentation  
 For more information on the [Cytron Product Name], check out the datasheet here:
