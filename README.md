@@ -1,5 +1,4 @@
 # Cytron Product Name
-This is just example of GitHub README.md, the content in this repository is just for example for Github Format.  
 If you are new to [Cytron Product Name] and want to get started quickly, you are in the right place! Here you will find all the information you need to set up your hardware and software and start coding with the [Cytron Product Name].
 - [*Maker Pi Pico Datasheet*](https://docs.google.com/document/d/1JoHsZk5IipQPCLXWbZYpDKjGlnkyACOJ1taUrKVsRg8/edit?usp=sharing)
 
@@ -8,8 +7,6 @@ If you are new to [Cytron Product Name] and want to get started quickly, you are
 ## Pinout Diagram
 ![Image of Maker Pi Pico Pinout Diagram](https://github.com/CytronTechnologies/MAKER-PI-PICO/blob/main/MakerPiPico-Pinout.png)
 
-## What's Raspberry Pi Pico?  
-[Raspberry Pi Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) is the first microcontroller board from Raspberry Pi Foundation, especially designed for physical computing. It can be programmed with MicroPython and C/C++ to control things in our real world.  
 
 ## Requirements  
 To get started, you will need the following hardware and software:  
