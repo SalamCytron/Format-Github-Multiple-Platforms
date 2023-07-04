@@ -1,6 +1,6 @@
 # Cytron Product Name
-If you are new to [Cytron Product Name] and want to get started quickly, you are in the right place! Here you will find all the information you need to set up your hardware and software and start coding with the [Cytron Product Name].
-- [*Maker Pi Pico Datasheet*](https://docs.google.com/document/d/1JoHsZk5IipQPCLXWbZYpDKjGlnkyACOJ1taUrKVsRg8/edit?usp=sharing)
+If you are new to [Cytron Product Name] and want to get started quickly, you are in the right place! Here you will find all the information you need to set up your hardware and software and start coding with the [Cytron Product Name].  
+
 
 ![Image of Cytron Product](https://github.com/SalamCytron/Format-Github-Multiple-Platforms/blob/main/cytron_product_image.png)
 
